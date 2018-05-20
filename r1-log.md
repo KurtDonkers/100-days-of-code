@@ -10,3 +10,5 @@ Finally start work on my own projects. Next to the occasional jam, this should h
 Setup skeleton with cmake under msys2.
 
 ### R1D2
+Added two skeleton modules, plus made a small planning for the project.
+
