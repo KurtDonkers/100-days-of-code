@@ -15,3 +15,6 @@ Added two skeleton modules, plus made a small planning for the project.
 ### R01D003 20180521-Mon
 Added skeleton unit test.
 
+### R01D004 20180523-Tue
+Read up on modular cmake, and cleanup my cmakes.
+
