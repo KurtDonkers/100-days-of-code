@@ -18,3 +18,9 @@ Added skeleton unit test.
 ### R01D004 20180523-Tue
 Read up on modular cmake, and cleanup my cmakes.
 
+### R01D005 20180524-Wed
+Short day due to Simteq stuff. Read up on boost-python and looked at planning
+
+### R01D006 20180525-Thu
+Added ctest
+
