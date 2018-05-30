@@ -23,4 +23,20 @@ Short day due to Simteq stuff. Read up on boost-python and looked at planning
 
 ### R01D006 20180525-Thu
 Added ctest
+Setup CI pipeline on gitlab.
+
+### R01D007 20180526-Sat
+Read some items from Effective Modern C++
+
+### R01D008 20180527-Sun
+Tutorial on Boost::Asio
+
+### R01D009 20180528-Mon
+Continue tutorial on Boost::Asio
+
+### R01D010 20180529-Tue
+No time today...
+
+### R01D011 20180530-Wed
+Add pybind11 as git submodule.
 
