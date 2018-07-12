@@ -40,3 +40,20 @@ No time today...
 ### R01D011 20180530-Wed
 Add pybind11 as git submodule.
 
+### R01D012 20180531-Thu
+Nothing. Karianne turns 50.
+
+### R01D013 20180601-Fri
+Started on adding nana as gui framework
+
+### R1D14 20180602-Sat
+Struggled half a day with cmake and some external libraries
+
+### R1B1 
+Due to restart simteq/amst, take a break from this.
+
+### R1D15 20180712-Thu
+Back from a break after work-focus.
+R1D15
+Start work on new C++ poject - yet another todolist -  to do some gui sandbox stuff.
+#100DaysOfCode
