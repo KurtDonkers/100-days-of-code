@@ -56,4 +56,7 @@ Due to restart simteq/amst, take a break from this.
 Back from a break after work-focus.
 R1D15
 Start work on new C++ poject - yet another todolist -  to do some gui sandbox stuff.
+
+### R1D16 20180714-Sat
+Imported and use hello-world version of nana in my gui-sandbox project.
 #100DaysOfCode
