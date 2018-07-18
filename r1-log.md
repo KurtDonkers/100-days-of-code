@@ -59,4 +59,10 @@ Start work on new C++ poject - yet another todolist -  to do some gui sandbox st
 
 ### R1D16 20180714-Sat
 Imported and use hello-world version of nana in my gui-sandbox project.
+
+### R1D17 20180715-Sun
+Played around with some nana gui items
+
+### R1D18 20180718-Wed
+Added treeview to sandbox gui todolist
 #100DaysOfCode
